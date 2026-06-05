@@ -1,3 +1,6 @@
+
+#! Proyecto AI-Legal-MX: Un programa de Python para explorar la intersección entre Inteligencia Artificial y Derecho en México.
+
 def menu():
 
     while True:
